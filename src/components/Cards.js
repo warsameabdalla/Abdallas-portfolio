@@ -16,7 +16,7 @@ function Cards() {
               src={portfolio}
               text='(Portfolio website) created using html css react (react hooks/reactrouter)'
               href="https://warsameabdalla.github.io/Myportfolioppage/"
-              github='https://github.com/warsameabdalla/Myportfolioppage'
+              github='https://github.com/warsameabdalla/Abdallas-portfolio'
               label='Portfolio Website'
               path='/services'
             />
