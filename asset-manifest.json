@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Abdallas-portfolio/static/css/main.a98450e8.chunk.css",
+    "main.js": "/Abdallas-portfolio/static/js/main.bec94e98.chunk.js",
+    "main.js.map": "/Abdallas-portfolio/static/js/main.bec94e98.chunk.js.map",
+    "runtime-main.js": "/Abdallas-portfolio/static/js/runtime-main.82cb9b33.js",
+    "runtime-main.js.map": "/Abdallas-portfolio/static/js/runtime-main.82cb9b33.js.map",
+    "static/js/2.d269c1e2.chunk.js": "/Abdallas-portfolio/static/js/2.d269c1e2.chunk.js",
+    "static/js/2.d269c1e2.chunk.js.map": "/Abdallas-portfolio/static/js/2.d269c1e2.chunk.js.map",
+    "index.html": "/Abdallas-portfolio/index.html",
+    "precache-manifest.c2fc355d43445e303deb7b49fecd26ea.js": "/Abdallas-portfolio/precache-manifest.c2fc355d43445e303deb7b49fecd26ea.js",
+    "service-worker.js": "/Abdallas-portfolio/service-worker.js",
+    "static/css/main.a98450e8.chunk.css.map": "/Abdallas-portfolio/static/css/main.a98450e8.chunk.css.map",
+    "static/js/2.d269c1e2.chunk.js.LICENSE.txt": "/Abdallas-portfolio/static/js/2.d269c1e2.chunk.js.LICENSE.txt",
+    "static/media/backend.png": "/Abdallas-portfolio/static/media/backend.1dfb656e.png",
+    "static/media/frontend.png": "/Abdallas-portfolio/static/media/frontend.3ae28f6a.png",
+    "static/media/portfolio.png": "/Abdallas-portfolio/static/media/portfolio.168c3b8a.png",
+    "static/media/video-1.mp4": "/Abdallas-portfolio/static/media/video-1.229f5279.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82cb9b33.js",
+    "static/js/2.d269c1e2.chunk.js",
+    "static/css/main.a98450e8.chunk.css",
+    "static/js/main.bec94e98.chunk.js"
+  ]
+}
